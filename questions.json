@@ -1,0 +1,761 @@
+[
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "Five minutes after IV antibiotic administration, a patient develops stridor, widespread hives, BP 76/42, and wheezing. What is the priority action?",
+    "opts": [
+      "Give oral diphenhydramine and reassess in 15 minutes",
+      "Activate the emergency response and administer IM epinephrine promptly per protocol",
+      "Obtain a detailed allergy history before treatment",
+      "Apply a cool compress to reduce urticaria"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "An antihistamine may help skin symptoms but does not reverse life-threatening airway or circulatory compromise.",
+      "Correct. This is anaphylaxis with airway and circulatory compromise. IM epinephrine and emergency support are first-line.",
+      "History matters after immediate stabilization, not before.",
+      "Comfort care does not treat shock or airway obstruction."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "multi",
+    "stem": "A patient develops suspected anaphylaxis during a medication infusion. Which actions should the nurse take? Select all that apply.",
+    "opts": [
+      "Stop exposure to the suspected agent",
+      "Call for emergency assistance",
+      "Prepare/administer IM epinephrine per emergency protocol",
+      "Delay treatment until an IgE blood test returns",
+      "Monitor airway, oxygenation, blood pressure, and response to treatment"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "why": [
+      "Correct. Stop additional allergen exposure.",
+      "Correct. Escalate promptly; airway and circulation can deteriorate.",
+      "Correct. IM epinephrine is the first-line medication.",
+      "Incorrect. Anaphylaxis is a clinical emergency; testing must not delay treatment.",
+      "Correct. Reassessment identifies persistent or recurrent compromise."
+    ],
+    "tag": "Take action",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "A patient has localized itchy, red patches 36 hours after using a new adhesive dressing. Breathing and BP are normal. Which mechanism is most consistent?",
+    "opts": [
+      "Type I IgE-mediated immediate reaction",
+      "Type II antibody-mediated cell injury",
+      "Type III immune-complex deposition",
+      "Type IV delayed, T-cell-mediated hypersensitivity"
+    ],
+    "correct": [
+      3
+    ],
+    "why": [
+      "Type I typically occurs rapidly and can involve urticaria or anaphylaxis.",
+      "Type II involves antibodies targeting cells, as in hemolytic transfusion reactions.",
+      "Type III involves immune-complex deposition.",
+      "Correct. Delayed contact dermatitis is commonly a Type IV T-cell-mediated response."
+    ],
+    "tag": "Analyze cues",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "A nurse reviews these newly arrived patients. Who should be assessed first?",
+    "opts": [
+      "Patient with seasonal rhinitis and watery eyes",
+      "Patient with eczema requesting moisturizer",
+      "Patient with sudden tongue swelling, hoarse voice, and difficulty swallowing",
+      "Patient with localized itchy rash after a bracelet"
+    ],
+    "correct": [
+      2
+    ],
+    "why": [
+      "Symptoms are uncomfortable but do not suggest impending airway obstruction.",
+      "Usually not urgent without infection or systemic symptoms.",
+      "Correct. New tongue swelling and voice change suggest potential airway compromise.",
+      "Localized dermatitis is lower priority than possible airway obstruction."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "A patient receiving a transfusion suddenly develops fever, chills, flank pain, and hypotension. What should the nurse do first?",
+    "opts": [
+      "Slow the transfusion and obtain temperature in 30 minutes",
+      "Stop the transfusion and maintain IV access with normal saline using new tubing per protocol",
+      "Administer the next unit to maintain hemoglobin",
+      "Document symptoms as expected after transfusion"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Slowing still exposes the patient to a potentially incompatible product.",
+      "Correct. Stop the suspected transfusion reaction immediately and follow emergency transfusion protocol.",
+      "Additional blood can worsen a hemolytic reaction.",
+      "These are potentially serious symptoms, not expected effects."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "A patient asks why an epinephrine autoinjector is prescribed rather than only an antihistamine for severe food allergy. Which explanation is best?",
+    "opts": [
+      "Epinephrine rapidly treats dangerous airway narrowing and low blood pressure",
+      "Antihistamines always prevent anaphylaxis if taken daily",
+      "Epinephrine is used only after a patient loses consciousness",
+      "Autoinjectors cure the underlying allergy permanently"
+    ],
+    "correct": [
+      0
+    ],
+    "why": [
+      "Correct. Epinephrine counteracts bronchospasm, airway edema, and vasodilation.",
+      "Incorrect. Antihistamines cannot reliably prevent or reverse anaphylaxis.",
+      "Incorrect. Waiting until unconsciousness can be fatal.",
+      "Incorrect. Epinephrine treats an episode; it does not cure sensitization."
+    ],
+    "tag": "Apply knowledge",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "multi",
+    "stem": "A patient is being discharged with a diagnosed latex allergy. Which teaching points are appropriate? Select all that apply.",
+    "opts": [
+      "Tell every healthcare team about the allergy before procedures",
+      "Use verified latex-free medical supplies",
+      "Assume any glove labeled powder-free is latex-free",
+      "Discuss a personalized emergency plan if there has been systemic allergy",
+      "Check products such as gloves and devices for latex content"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "why": [
+      "Correct. Clear communication helps prevent accidental exposure.",
+      "Correct. Select nitrile or other verified latex-free products.",
+      "Incorrect. Powder-free latex gloves can still contain latex proteins.",
+      "Correct. Severe allergy may warrant emergency medication planning.",
+      "Correct. Latex may be present in multiple products."
+    ],
+    "tag": "Patient education",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "After a first dose of a new drug, a patient reports isolated mild itching with stable vital signs and no airway symptoms. What is the most appropriate nursing response?",
+    "opts": [
+      "Ignore it because there is no respiratory distress",
+      "Assess the patient, stop/hold the suspected agent as appropriate, and promptly inform the prescriber",
+      "Immediately administer a second dose to test tolerance",
+      "Label the reaction as confirmed anaphylaxis without additional assessment"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Mild symptoms may progress; assessment is necessary.",
+      "Correct. Assess severity, avoid re-exposure while clarifying the reaction, and escalate appropriately.",
+      "Rechallenge is unsafe without a clinical plan.",
+      "Itching alone does not establish anaphylaxis."
+    ],
+    "tag": "Take action",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "A patient with HIV has CD4 count 148 cells/\u00b5L and worsening dyspnea, dry cough, fever, and oxygen saturation 86%. Which problem demands first attention?",
+    "opts": [
+      "Sleep pattern disturbance",
+      "Impaired oxygenation from a possible opportunistic respiratory infection",
+      "Knowledge deficit regarding long-term antiretroviral therapy",
+      "Concern about disclosing HIV status"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Rest may matter, but hypoxemia is a more urgent threat.",
+      "Correct. Severe hypoxemia demands immediate respiratory assessment, oxygen/support, and rapid escalation.",
+      "Teaching is vital once breathing is stabilized.",
+      "Privacy concerns matter but do not supersede acute respiratory distress."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "A patient newly diagnosed with HIV asks what antiretroviral therapy (ART) does. Which statement is most accurate?",
+    "opts": [
+      "It completely eradicates HIV after one month",
+      "It suppresses viral replication, preserves immunity, and improves long-term outcomes",
+      "It is only started after every opportunistic infection develops",
+      "It eliminates the need for follow-up viral-load testing"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "ART does not reliably cure HIV.",
+      "Correct. Durable viral suppression and immune preservation are central treatment goals.",
+      "ART is generally initiated promptly, with timing individualized for certain coinfections.",
+      "Viral load is monitored to evaluate response and adherence."
+    ],
+    "tag": "Apply knowledge",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "multi",
+    "stem": "A nurse assesses an adult with possible primary immunodeficiency. Which findings support further evaluation? Select all that apply.",
+    "opts": [
+      "Repeated serious sinus and lung infections",
+      "Unusual or opportunistic infections",
+      "Family history of recurrent severe infections",
+      "One uncomplicated cold last winter",
+      "Persistent infections despite appropriate treatment"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "why": [
+      "Correct. Recurrent serious infections may indicate immune dysfunction.",
+      "Correct. Unusual organisms raise suspicion.",
+      "Correct. Some primary immune deficiencies are inherited.",
+      "Incorrect. One routine respiratory infection is common.",
+      "Correct. Poor treatment response warrants further evaluation."
+    ],
+    "tag": "Recognize cues",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "During an IV immunoglobulin (IVIG) infusion a patient develops chest tightness, wheezing, and hypotension. What is the nurse\u2019s priority?",
+    "opts": [
+      "Increase the IVIG rate to finish the dose",
+      "Stop the infusion, assess airway/breathing/circulation, and activate emergency response",
+      "Wait for the scheduled 30-minute vital sign check",
+      "Reassure the patient that these are always harmless symptoms"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Increasing exposure may worsen the reaction.",
+      "Correct. This could be a severe infusion reaction/anaphylaxis; immediate assessment and response are essential.",
+      "Delaying assessment risks deterioration.",
+      "Potentially severe signs require urgent intervention."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "A patient with a primary antibody deficiency asks why regular immunoglobulin replacement is prescribed. Which answer is best?",
+    "opts": [
+      "It provides donor antibodies to reduce certain infections",
+      "It permanently repairs the genes causing the deficiency",
+      "It directly makes the patient\u2019s T cells produce more antibodies",
+      "It makes infection-prevention measures unnecessary"
+    ],
+    "correct": [
+      0
+    ],
+    "why": [
+      "Correct. IVIG or SCIG can replace missing antibodies and reduce infection burden in appropriate disorders.",
+      "Replacement is supportive, not a gene cure.",
+      "T cells do not manufacture antibodies.",
+      "Patients still need infection prevention and follow-up."
+    ],
+    "tag": "Patient education",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "Which change is the strongest indication that the nurse should urgently escalate care for an immunocompromised patient?",
+    "opts": [
+      "A preference for bland foods",
+      "New confusion, BP 84/48, and fever",
+      "Request for a private room",
+      "Questions about vaccine history"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Diet preference alone is not an emergency.",
+      "Correct. Hypotension and acute mental status change with infection signs suggest life-threatening sepsis.",
+      "Room requests do not supersede unstable vital signs.",
+      "Immunization review is important but not emergent."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "multi",
+    "stem": "A patient with HIV reports missing several ART doses. Which nursing responses are appropriate? Select all that apply.",
+    "opts": [
+      "Ask without judgment about barriers such as side effects or cost",
+      "Explain how adherence helps maintain viral suppression",
+      "Tell the patient to double all future doses without guidance",
+      "Connect the patient with the prescribing team and support resources",
+      "Assess for new symptoms and review follow-up viral-load monitoring"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "why": [
+      "Correct. A nonjudgmental assessment identifies barriers.",
+      "Correct. Adherence reduces treatment failure and resistance risk.",
+      "Incorrect. Dose changes require regimen-specific clinical guidance.",
+      "Correct. Coordinated support helps restore consistent treatment.",
+      "Correct. Clinical status and virologic monitoring help guide care."
+    ],
+    "tag": "Take action",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "A nurse reads that a patient with HIV has a CD4 count of 175 cells/\u00b5L. Which interpretation is best?",
+    "opts": [
+      "This meets the CD4 threshold for stage 3 HIV infection (AIDS) in adults",
+      "The patient has normal immune function",
+      "The patient cannot develop infections because ART is prescribed",
+      "The patient no longer needs CD4 monitoring"
+    ],
+    "correct": [
+      0
+    ],
+    "why": [
+      "Correct. A CD4 count below 200 cells/\u00b5L meets the immunologic stage-3 threshold for adults, subject to clinical classification context.",
+      "A low CD4 count indicates significant immune compromise.",
+      "ART does not instantly eliminate opportunistic infection risk.",
+      "Monitoring remains important according to clinical guidance."
+    ],
+    "tag": "Analyze cues",
+    "case": ""
+  },
+  {
+    "ch": 32,
+    "kind": "single",
+    "stem": "Which finding is the clearest example of passive acquired immunity?",
+    "opts": [
+      "Antibodies produced after a vaccine",
+      "Antibodies transferred through administered immune globulin",
+      "T-cell memory after recovering from infection",
+      "Neutrophils moving toward a wound"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Vaccine-induced self-production is active immunity.",
+      "Correct. Passive immunity provides antibodies from an external source.",
+      "Immune memory following infection is active acquired immunity.",
+      "Neutrophil migration is part of innate defense."
+    ],
+    "tag": "Apply knowledge",
+    "case": ""
+  },
+  {
+    "ch": 32,
+    "kind": "single",
+    "stem": "A patient has impaired B-cell function. Which response is most directly affected?",
+    "opts": [
+      "Production of antibodies by plasma cells",
+      "Physical protection from intact skin",
+      "Cough reflex clearing the airway",
+      "Initial neutrophil migration to inflamed tissue"
+    ],
+    "correct": [
+      0
+    ],
+    "why": [
+      "Correct. B cells differentiate into plasma cells responsible for humoral antibody production.",
+      "Skin is a nonspecific innate barrier.",
+      "Coughing is part of innate mechanical defense.",
+      "Neutrophils are innate immune responders."
+    ],
+    "tag": "Analyze cues",
+    "case": ""
+  },
+  {
+    "ch": 32,
+    "kind": "multi",
+    "stem": "The nurse evaluates a patient\u2019s immune status. Which history findings deserve follow-up? Select all that apply.",
+    "opts": [
+      "Recurrent or persistent infections",
+      "Recent immunosuppressive medication use",
+      "Poor nutrition and unintended weight loss",
+      "Documented vaccination history",
+      "A new pattern of slow wound healing"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "why": [
+      "Correct. Infection pattern can indicate immunologic problems.",
+      "Correct. Immunosuppressants can weaken defenses.",
+      "Correct. Nutrition can affect immune response.",
+      "A vaccine history should be reviewed, but simply having documentation is not an abnormal finding.",
+      "Correct. Poor wound healing can warrant investigation."
+    ],
+    "tag": "Recognize cues",
+    "case": ""
+  },
+  {
+    "ch": 32,
+    "kind": "single",
+    "stem": "A patient asks why the immune response after vaccination may be faster when reexposed to the pathogen. Which answer demonstrates understanding?",
+    "opts": [
+      "Innate skin barriers remember each prior pathogen",
+      "Adaptive immune memory allows a more rapid, specific response",
+      "All neutrophils become permanent memory cells",
+      "Vaccination guarantees no future symptoms from the disease"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Skin barriers are innate and do not have pathogen-specific memory.",
+      "Correct. Adaptive memory cells respond more efficiently on subsequent exposures.",
+      "Neutrophils do not provide classic adaptive antigen-specific memory.",
+      "Vaccination reduces risk but does not guarantee total protection."
+    ],
+    "tag": "Apply knowledge",
+    "case": ""
+  },
+  {
+    "ch": 32,
+    "kind": "single",
+    "stem": "A patient receiving chemotherapy has a low neutrophil count. Which intervention most directly addresses the major immediate risk?",
+    "opts": [
+      "Encourage contact with visitors who have colds",
+      "Use careful hand hygiene, infection precautions, and prompt reporting of fever",
+      "Withhold all fluids until counts normalize",
+      "Wait to assess fever unless cough occurs"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Visitors with infections increase exposure risk.",
+      "Correct. Neutropenia increases susceptibility to serious infection; prevention and rapid evaluation of fever are essential.",
+      "Hydration restriction is not a routine neutropenia intervention.",
+      "Fever may be the only early sign of serious infection."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 32,
+    "kind": "single",
+    "stem": "An older adult with several infections asks whether immune changes can occur with aging. Which response is most accurate?",
+    "opts": [
+      "Immune function always improves with age",
+      "Immunosenescence can alter immune response and increase infection susceptibility",
+      "Only antibody levels change; T cells never change",
+      "Aging eliminates the inflammatory response entirely"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Age-related decline and alteration can occur.",
+      "Correct. Immunosenescence affects multiple immune pathways.",
+      "Both cellular and humoral responses may change.",
+      "Inflammation still occurs, sometimes dysregulated."
+    ],
+    "tag": "Analyze cues",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "A patient develops hoarseness and progressive lip swelling after eating a food associated with past anaphylaxis, but has no visible hives. What should the nurse conclude?",
+    "opts": [
+      "Anaphylaxis is excluded because hives are absent",
+      "Airway symptoms after exposure are concerning and require emergency response",
+      "Only a topical steroid is needed",
+      "The symptoms establish a delayed Type IV reaction"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Anaphylaxis can occur without cutaneous findings.",
+      "Correct. Progressive airway symptoms following an allergen exposure demand urgent evaluation and treatment.",
+      "Topical treatment does not address possible airway compromise.",
+      "Rapid airway symptoms favor an immediate systemic reaction."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "A patient with frequent severe infections is being considered for immunology referral. Which nursing statement supports safe follow-up?",
+    "opts": [
+      "Recurrent infections always mean HIV",
+      "Document infection frequency, organisms when known, treatment response, and family history",
+      "There is no reason to review serum immunoglobulins",
+      "Prophylactic antibiotics permanently cure primary immunodeficiency"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Many conditions cause recurrent infections; diagnosis needs evaluation.",
+      "Correct. Detailed history supports targeted immunologic assessment.",
+      "Serum immunoglobulin levels may be important diagnostic tests.",
+      "Antibiotics may prevent/treat infections but do not generally correct the underlying disorder."
+    ],
+    "tag": "Analyze cues",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "A patient with severe food allergy becomes dizzy and hypotensive after allergen exposure. After IM epinephrine and emergency activation, which continuing nursing assessment is most important?",
+    "opts": [
+      "Trend airway patency, breath sounds, oxygenation and blood pressure",
+      "Ask the patient to complete a food preference form",
+      "Delay all monitoring until rash clears",
+      "Focus only on counting the number of hives"
+    ],
+    "correct": [
+      0
+    ],
+    "why": [
+      "Correct. Airway, breathing, and perfusion must be repeatedly reassessed.",
+      "Documentation can wait until stabilization.",
+      "Symptoms can recur or worsen and require ongoing monitoring.",
+      "Skin findings alone do not measure life-threatening deterioration."
+    ],
+    "tag": "Evaluate outcomes",
+    "case": ""
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "In reviewing HIV laboratory results, which trend best suggests ART is effective?",
+    "opts": [
+      "Increasing HIV viral load",
+      "Sustained falling HIV viral load toward suppression",
+      "CD4 count declining with new opportunistic infections",
+      "Increasing frequency of missed ART doses"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Rising viral load may suggest poor suppression or nonadherence.",
+      "Correct. Viral-load suppression is a central measure of ART response.",
+      "These trends suggest worsening immune status.",
+      "Missed doses threaten suppression."
+    ],
+    "tag": "Evaluate outcomes",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "A patient has sudden facial swelling while taking an ACE inhibitor, with no hives or itching. Which nursing interpretation is most important?",
+    "opts": [
+      "This is harmless because there is no rash",
+      "Possible bradykinin-mediated angioedema can still threaten the airway",
+      "Antihistamines always eliminate the swelling within minutes",
+      "A contact allergy is the only possible cause"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Angioedema can cause life-threatening airway obstruction without hives.",
+      "Correct. ACE-inhibitor associated angioedema often lacks urticaria; urgent airway assessment is essential.",
+      "Bradykinin-mediated reactions typically respond poorly to standard allergic treatments.",
+      "Several mechanisms can cause angioedema."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  },
+  {
+    "ch": 32,
+    "kind": "single",
+    "stem": "A patient has repeated bacterial infections and low antibody levels, while T-cell testing is relatively preserved. Which immune defense is most implicated?",
+    "opts": [
+      "Humoral response involving B lymphocytes",
+      "Mechanical cough reflex alone",
+      "Intact skin barrier alone",
+      "Direct cell-mediated cytotoxic T-cell response only"
+    ],
+    "correct": [
+      0
+    ],
+    "why": [
+      "Correct. Reduced antibody production points toward humoral immune dysfunction.",
+      "Mechanical protection alone does not explain low antibodies.",
+      "Skin integrity cannot account for documented antibody deficiency.",
+      "Cell-mediated T-cell function is a separate major branch."
+    ],
+    "tag": "Analyze cues",
+    "case": ""
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "Case: A patient receives IV medication. Within minutes: flushing, wheezing, throat tightness, HR 128, BP 82/46, SpO\u2082 89%. Which hypothesis is most urgent?",
+    "opts": [
+      "Anaphylactic shock",
+      "Delayed contact dermatitis",
+      "An uncomplicated vasovagal episode",
+      "Stable allergic rhinitis"
+    ],
+    "correct": [
+      0
+    ],
+    "why": [
+      "Correct. Multisystem rapid onset with airway and circulatory compromise strongly suggests anaphylactic shock.",
+      "Delayed dermatitis cannot explain shock and acute wheeze.",
+      "Vasovagal events typically do not cause wheeze and throat tightness.",
+      "Rhinitis does not account for hypotension."
+    ],
+    "tag": "Recognize cues",
+    "case": "Rapid response case"
+  },
+  {
+    "ch": 34,
+    "kind": "multi",
+    "stem": "Case continues: Which clinical cues require immediate intervention? Select all that apply.",
+    "opts": [
+      "SpO\u2082 of 89%",
+      "BP of 82/46",
+      "New throat tightness and wheezing",
+      "A history of seasonal allergies last spring",
+      "HR of 128 with signs of poor perfusion"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "why": [
+      "Correct. Hypoxemia is an urgent breathing concern.",
+      "Correct. Severe hypotension indicates circulatory compromise.",
+      "Correct. These cues threaten airway and ventilation.",
+      "Background history alone is not the immediate danger.",
+      "Correct. Tachycardia alongside shock is a red flag."
+    ],
+    "tag": "Analyze cues",
+    "case": "Rapid response case"
+  },
+  {
+    "ch": 34,
+    "kind": "order",
+    "stem": "Case continues: Put these actions in the safest sequence (the team may perform steps simultaneously):",
+    "opts": [
+      "Administer IM epinephrine promptly under emergency protocol",
+      "Reassess airway, oxygen saturation, blood pressure and response",
+      "Stop the suspected infusion and summon emergency help",
+      "Prepare supplemental oxygen, positioning and IV fluid support per protocol"
+    ],
+    "correct": [
+      2,
+      0,
+      3,
+      1
+    ],
+    "why": [
+      "Anaphylaxis medication should be given promptly.",
+      "Ongoing reassessment follows initial rescue actions.",
+      "First stop additional exposure and mobilize help.",
+      "Supportive oxygen/perfusion measures follow or occur alongside epinephrine."
+    ],
+    "tag": "Take action",
+    "case": "Rapid response case"
+  },
+  {
+    "ch": 34,
+    "kind": "single",
+    "stem": "Case continues: Ten minutes later the rash improves but the patient again reports throat tightness and wheezing. What is the safest conclusion?",
+    "opts": [
+      "The reaction is resolved because the rash faded",
+      "Possible persistent/recurrent anaphylaxis requires prompt reassessment and further emergency treatment per protocol",
+      "The patient is ready for immediate discharge",
+      "Only topical skin medication is needed"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Skin improvement alone does not prove airway stability.",
+      "Correct. Persistent or recurrent respiratory symptoms require rapid reassessment and continued anaphylaxis management.",
+      "Discharge is unsafe with new respiratory symptoms.",
+      "Topical medicine does not address airway compromise."
+    ],
+    "tag": "Evaluate outcomes",
+    "case": "Rapid response case"
+  },
+  {
+    "ch": 33,
+    "kind": "single",
+    "stem": "Four patients are assigned to the nurse. Which patient is the priority?",
+    "opts": [
+      "Stable HIV patient requesting medication education",
+      "Immunodeficient patient with fever 39.3\u00b0C, new confusion, and systolic BP 86",
+      "Patient with mild itchy contact dermatitis",
+      "Stable patient waiting for routine immunoglobulin level results"
+    ],
+    "correct": [
+      1
+    ],
+    "why": [
+      "Important but not as urgent as shock.",
+      "Correct. Acute confusion and hypotension with fever suggest sepsis and impaired perfusion.",
+      "Mild dermatitis is not immediately life-threatening.",
+      "Routine labs can wait."
+    ],
+    "tag": "Prioritize",
+    "case": ""
+  }
+]
